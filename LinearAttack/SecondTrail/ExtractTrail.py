@@ -274,13 +274,13 @@ def ExtractTrail(infileName, outfileName, StartRound, StartTag, EndRound, EndTag
 
 
 
-infileName = "SPEEDY_Differential_KeyRecovery.txt"
+infileName = "SPEEDY_Linear_FirstTrail.txt"
 
 outfileName = "out" + infileName
 
-StartRound = 3
-StartTag = 4
-EndRound = 5
+StartRound = 0
+StartTag = 3
+EndRound = 3
 EndTag = 0
 
 ExtractTrail(infileName, outfileName, StartRound, StartTag, EndRound, EndTag)
