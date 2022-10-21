@@ -24,4 +24,4 @@ Finally, run
 ```
 python3 ExtractTrail.py
 ```
-to get a visualization of the attack trail in file "outSPEEDY_Differential_FirstTrail.txt".
+to get a visualization of the attack trail.
