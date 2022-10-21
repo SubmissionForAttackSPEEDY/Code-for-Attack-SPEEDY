@@ -19,7 +19,7 @@ nohup stp SPEEDY_Differential_FirstTrail.cvc --cryptominisat --threads 8 >SPEEDY
 
 to get the solution. It might take some time, usually several hours.
 
-And run 
+Finally, run 
 
 ```
 python3 ExtractTrail.py
